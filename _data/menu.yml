@@ -1,0 +1,14 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: about
+    url: about
+  - title: posts
+    url: posts
+  - title: books
+    url: books
+  - title: photos
+    url: photos
+  - title: rss
+    url: feed.xml
