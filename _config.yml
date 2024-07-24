@@ -27,7 +27,7 @@ url: "https://www.zidaan.me" # the base hostname & protocol for your site, e.g. 
 github_username:  zdutta
 
 # Build settings
-theme: no-style-please
+remote_theme: riggraz/no-style-please
 theme_config.show_description: true
 plugins:
   - jekyll-feed
