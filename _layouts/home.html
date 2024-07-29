@@ -3,8 +3,7 @@ layout: default
 ---
 <header>
   <h1>{{ site.title }}</h1>
-  <h2>This site is under construction. Stay tuned!</h2>
-  {% comment %}
+  <img src="/assets/assets/images/nyc.jpeg" width="1000" style="margin:0">
 
   {%-if site.theme_config.show_description-%}
     <p>{{ site.description }}</p>
@@ -12,6 +11,5 @@ layout: default
 </header>
 
 {%-include menu_item.html collection=site.data.menu.entries-%}
-{% endcomment %}
 
 {{ content }}
