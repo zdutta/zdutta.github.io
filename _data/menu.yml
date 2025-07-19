@@ -4,6 +4,8 @@
 entries:
   - title: about
     url: about
+  - title: now
+    url: now
   - title: posts
     url: posts
   - title: books
