@@ -1,18 +1,27 @@
 ---
 layout: default
 ---
-<header>
-  <h1>
+<header style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+  <h1 style="margin: 0;">
     <img src="/assets/assets/images/zd-supreme.png" alt="ZD" style="height: 1.2em; vertical-align: middle; margin-right: 10px;">
     {{ site.title }}
   </h1>
-  <img src="/assets/assets/images/mnts.png" width="1000" style="margin:0">
-
-  {%-if site.theme_config.show_description-%}
-    <p>{{ site.description }}</p>
-  {%-endif-%}
+  
+  <nav style="display: flex; gap: 20px; align-items: center;">
+    {%-for item in site.data.menu.entries-%}
+      {%- if item.url -%}
+        <a href="{{ item.url }}" style="text-decoration: none; color: inherit;">{{ item.title | upcase }}</a>
+      {%- else -%}
+        <span>{{ item.title | upcase }}</span>
+      {%- endif -%}
+    {%-endfor-%}
+  </nav>
 </header>
 
-{%-include menu_item.html collection=site.data.menu.entries-%}
+<img src="/assets/assets/images/mnts.png" width="1000" style="margin:0">
+
+{%-if site.theme_config.show_description-%}
+  <p>{{ site.description }}</p>
+{%-endif-%}
 
 {{ content }}
