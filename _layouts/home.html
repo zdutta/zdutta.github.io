@@ -1,21 +1,6 @@
 ---
 layout: default
 ---
-<header style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; padding: 20px 0; border-bottom: 1px solid #333;">
-  <h1 style="margin: 0; display: flex; align-items: center;">
-    <img src="/assets/assets/images/zd-supreme.png" alt="ZD" style="height: 1.6em; vertical-align: middle;">
-  </h1>
-  
-  <nav style="display: flex; gap: 30px; align-items: center;">
-    {%-for item in site.data.menu.entries-%}
-      {%- if item.url -%}
-        <a href="{{ item.url }}" style="text-decoration: none; color: inherit; font-size: 0.9em; font-weight: 300; letter-spacing: 1px; transition: color 0.2s ease;">{{ item.title | upcase }}</a>
-      {%- else -%}
-        <span style="font-size: 0.9em; font-weight: 300; letter-spacing: 1px;">{{ item.title | upcase }}</span>
-      {%- endif -%}
-    {%-endfor-%}
-  </nav>
-</header>
 
 <img src="/assets/assets/images/mnts.png" width="1000" style="margin:0">
 <p style="margin-top: 15px; font-size: 0.9em; color: #ccc; font-style: italic;">This image was taken during my flight to India. Captured is the Himalayan mountain range.</p>
