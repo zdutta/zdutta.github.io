@@ -1,0 +1,17 @@
+---
+# Jekyll layout for individual book pages
+---
+<div class="book-entry" style="max-width: 600px; margin: 0 auto; text-align: left;">
+  <h1 style="margin-bottom: 0.2em;">{{ page.title }}</h1>
+  <div style="font-size: 1.1em; color: #888; margin-bottom: 1em;">
+    <span>{{ page.author }}</span>{% if page.date_finished %} &mdash; <span>{{ page.date_finished }}</span>{% endif %}
+  </div>
+  {% if page.cover %}
+    <img src="{{ page.cover }}" alt="{{ page.title }} cover" style="max-width: 160px; float: left; margin: 0 1.5em 1em 0; box-shadow: 0 2px 8px #0001;" />
+  {% endif %}
+  <div class="book-content" style="overflow: auto;">
+    {{ content }}
+  </div>
+  <div style="clear: both;"></div>
+  <p style="margin-top: 2em;"><a href="/books">&larr; Back to Books</a></p>
+</div> 
