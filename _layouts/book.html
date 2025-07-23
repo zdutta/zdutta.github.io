@@ -1,17 +1,19 @@
 ---
 # Jekyll layout for individual book pages
 ---
-<div class="book-entry">
-  {% if page.cover %}
-    <img class="book-cover" src="{{ page.cover }}" alt="{{ page.title }} cover" />
-  {% endif %}
-  <div class="book-content">
-    <h1>{{ page.title }}</h1>
-    <div class="book-meta">
-      <span>{{ page.author }}</span>{% if page.date_finished %} &mdash; <span>{{ page.date_finished }}</span>{% endif %}
+<div class="book-entry-container">
+  <div class="book-entry">
+    {% if page.cover %}
+      <img class="book-cover" src="{{ page.cover }}" alt="{{ page.title }} cover" />
+    {% endif %}
+    <div class="book-content">
+      <h1>{{ page.title }}</h1>
+      <div class="book-meta">
+        <span>{{ page.author }}</span>{% if page.date_finished %} &mdash; <span>{{ page.date_finished }}</span>{% endif %}
+      </div>
+      <hr />
+      {{ content }}
+      <p><a href="/books">&larr; Back to Books</a></p>
     </div>
-    <hr />
-    {{ content }}
-    <p><a href="/books">&larr; Back to Books</a></p>
   </div>
 </div> 
