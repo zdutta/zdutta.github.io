@@ -147,3 +147,16 @@ img {
     margin-bottom: 0.5em;
   }
 }
+
+// Center homepage image and caption
+.home-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.home-caption {
+  text-align: center;
+  font-style: italic;
+  color: #888;
+  margin-top: 0.5em;
+}
