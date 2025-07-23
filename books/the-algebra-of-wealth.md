@@ -12,4 +12,4 @@ Galloway distills the rules of financial success in today’s economy, offering 
 
 ---
 
-*Back to [Books](/books)* 
+[Back to Books](/books) 

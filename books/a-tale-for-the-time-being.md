@@ -12,4 +12,4 @@ A moving story that weaves together the lives of a Japanese schoolgirl and a wri
 
 ---
 
-*Back to [Books](/books)* 
+[Back to Books](/books) 

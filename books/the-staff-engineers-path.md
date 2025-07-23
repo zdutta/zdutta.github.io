@@ -12,4 +12,4 @@ A practical guide for individual contributors navigating growth and change, with
 
 ---
 
-*Back to [Books](/books)* 
+[Back to Books](/books) 

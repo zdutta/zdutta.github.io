@@ -12,4 +12,4 @@ Grover shares the mindset and habits of elite athletes and performers, showing w
 
 ---
 
-*Back to [Books](/books)* 
+[Back to Books](/books) 

@@ -12,4 +12,4 @@ Galloway shares blunt, practical advice on success, love, and meaning, blending 
 
 ---
 
-*Back to [Books](/books)* 
+[Back to Books](/books) 

@@ -12,4 +12,4 @@ A philosophical journey across America, blending a father-son road trip with dee
 
 ---
 
-*Back to [Books](/books)* 
+[Back to Books](/books) 

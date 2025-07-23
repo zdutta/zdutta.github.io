@@ -12,4 +12,4 @@ A beautifully written novel about Count Alexander Rostov, sentenced to house arr
 
 ---
 
-*Back to [Books](/books)* 
+[Back to Books](/books) 

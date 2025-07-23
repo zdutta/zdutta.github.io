@@ -12,4 +12,4 @@ A spiritual journey of self-discovery, Siddhartha explores the search for meanin
 
 ---
 
-*Back to [Books](/books)* 
+[Back to Books](/books) 

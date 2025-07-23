@@ -12,4 +12,4 @@ A fun and insightful look at the power of relationships in sales, told through t
 
 ---
 
-*Back to [Books](/books)* 
+[Back to Books](/books) 
