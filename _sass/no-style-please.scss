@@ -100,6 +100,10 @@ img {
 }
 
 .book-entry {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 2em;
   text-align: left;
   margin: 0 0 2em 0;
 }
@@ -111,15 +115,15 @@ img {
 }
 
 .book-cover {
-  max-width: 180px;
-  width: 100%;
+  width: 160px;
+  max-width: 160px;
   margin-bottom: 1em;
   display: block;
   box-shadow: 0 2px 8px #0001;
 }
 
 .book-content {
-  max-width: 600px;
+  flex: 1 1 0%;
   margin-bottom: 2em;
 }
 
