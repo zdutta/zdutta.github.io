@@ -1,10 +1,17 @@
 ---
-layout: book
-title: Siddhartha
-author: Hermann Hesse
-date_finished: 2024-01-12
-cover: /assets/assets/images/books/siddhartha.jpg
+layout: page
+title: "Siddhartha"
+permalink: /books/siddhartha/
 ---
+
+# Siddhartha
+
+![Siddhartha cover](/assets/assets/images/books/siddhartha.jpg)
+
+**Author:** Hermann Hesse  
+**Date Finished:** Jan 12, 2024
+
+## Reflection
 
 > "Wisdom cannot be imparted. Wisdom that a wise man attempts to impart always sounds like foolishness to someone else."
 
@@ -12,4 +19,4 @@ A spiritual journey of self-discovery, Siddhartha explores the search for meanin
 
 ---
 
-[Back to Books](/books) 
+*Back to [Books](/books)* 

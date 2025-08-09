@@ -1,10 +1,17 @@
 ---
-layout: book
+layout: page
 title: "Relentless: From Good to Great to Unstoppable"
-author: Tim S. Grover
-date_finished: 2024-01-12
-cover: /assets/assets/images/books/relentless.jpg
+permalink: /books/relentless/
 ---
+
+# Relentless: From Good to Great to Unstoppable
+
+![Relentless cover](/assets/assets/images/books/relentless.jpg)
+
+**Author:** Tim S. Grover  
+**Date Finished:** Jan 12, 2024
+
+## Reflection
 
 > "Being relentless means demanding more of yourself than anyone else could ever demand of you."
 
@@ -12,4 +19,4 @@ Grover shares the mindset and habits of elite athletes and performers, showing w
 
 ---
 
-[Back to Books](/books) 
+*Back to [Books](/books)* 

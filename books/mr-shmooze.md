@@ -1,10 +1,17 @@
 ---
-layout: book
+layout: page
 title: "Mr. Shmooze: The Art and Science of Selling Through Relationships"
-author: Richard Abraham
-date_finished: 2024-01-12
-cover: /assets/assets/images/books/mr-shmooze.jpg
+permalink: /books/mr-shmooze/
 ---
+
+# Mr. Shmooze: The Art and Science of Selling Through Relationships
+
+![Mr. Shmooze cover](/assets/assets/images/books/mr-shmooze.jpg)
+
+**Author:** Richard Abraham  
+**Date Finished:** Jan 12, 2024
+
+## Reflection
 
 > "People buy from people they like."
 
@@ -12,4 +19,4 @@ A fun and insightful look at the power of relationships in sales, told through t
 
 ---
 
-[Back to Books](/books) 
+*Back to [Books](/books)* 
