@@ -93,9 +93,14 @@ img {
   margin: 0 auto;
 }
 
-.books-list, .book-entry, .book-content, .page-content, .w {
+.books-list, .book-entry, .book-content, .page-content {
   text-align: left !important;
   margin-left: 0 !important;
+  align-items: flex-start !important;
+}
+
+.w {
+  text-align: left !important;
   align-items: flex-start !important;
 }
 
@@ -149,9 +154,14 @@ img {
 }
 
 // Center homepage image and caption
+.home-image-container {
+  text-align: center !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 .home-image {
-  display: block;
-  margin: 0 auto !important;
+  display: inline-block;
   max-width: 100%;
   height: auto;
 }
