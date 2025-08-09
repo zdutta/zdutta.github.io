@@ -151,8 +151,9 @@ img {
 // Center homepage image and caption
 .home-image {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
 }
 .home-caption {
   text-align: center;
