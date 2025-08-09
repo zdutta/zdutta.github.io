@@ -171,3 +171,9 @@ img {
   color: #888;
   margin-top: 0.5em;
 }
+
+// Left-align book cover images
+img[alt*="cover"] {
+  margin: 0 0 0.2em 0 !important;
+  display: block !important;
+}
