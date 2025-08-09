@@ -151,7 +151,7 @@ img {
 // Center homepage image and caption
 .home-image {
   display: block;
-  margin: 0 auto;
+  margin: 0 auto !important;
   max-width: 100%;
   height: auto;
 }
