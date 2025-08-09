@@ -4,8 +4,6 @@ title: "Zen and the Art of Motorcycle Maintenance"
 permalink: /books/zen-and-the-art-of-motorcycle-maintenance/
 ---
 
-# Zen and the Art of Motorcycle Maintenance
-
 ![Zen and the Art of Motorcycle Maintenance cover](/assets/assets/images/books/zen-and-the-art-of-motorcycle-maintenance.jpg)
 
 **Author:** Robert M. Pirsig  

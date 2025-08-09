@@ -4,8 +4,6 @@ title: "Mr. Shmooze: The Art and Science of Selling Through Relationships"
 permalink: /books/mr-shmooze/
 ---
 
-# Mr. Shmooze: The Art and Science of Selling Through Relationships
-
 ![Mr. Shmooze cover](/assets/assets/images/books/mr-shmooze.jpg)
 
 **Author:** Richard Abraham  

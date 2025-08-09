@@ -4,8 +4,6 @@ title: "Emotional Intelligence: Why It Can Matter More Than IQ"
 permalink: /books/emotional-intelligence/
 ---
 
-# Emotional Intelligence: Why It Can Matter More Than IQ
-
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347518221l/26329._SX318_.jpg)
 
 **Author:** Daniel Goleman  

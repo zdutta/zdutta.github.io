@@ -4,8 +4,6 @@ title: "Relentless: From Good to Great to Unstoppable"
 permalink: /books/relentless/
 ---
 
-# Relentless: From Good to Great to Unstoppable
-
 ![Relentless cover](/assets/assets/images/books/relentless.jpg)
 
 **Author:** Tim S. Grover  

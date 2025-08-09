@@ -4,8 +4,6 @@ title: "Siddhartha"
 permalink: /books/siddhartha/
 ---
 
-# Siddhartha
-
 ![Siddhartha cover](/assets/assets/images/books/siddhartha.jpg)
 
 **Author:** Hermann Hesse  

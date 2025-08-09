@@ -4,8 +4,6 @@ title: "The Staff Engineer's Path"
 permalink: /books/the-staff-engineers-path/
 ---
 
-# The Staff Engineer's Path
-
 ![The Staff Engineer's Path cover](/assets/assets/images/books/the-staff-engineers-path.jpg)
 
 **Author:** Tanya Reilly  

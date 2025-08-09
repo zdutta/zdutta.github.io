@@ -4,8 +4,6 @@ title: "A Gentleman in Moscow"
 permalink: /books/a-gentleman-in-moscow/
 ---
 
-# A Gentleman in Moscow
-
 ![A Gentleman in Moscow cover](/assets/assets/images/books/a-gentleman-in-moscow.jpg)
 
 **Author:** Amor Towles  

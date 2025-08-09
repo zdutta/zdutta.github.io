@@ -4,8 +4,6 @@ title: "The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google"
 permalink: /books/the-four/
 ---
 
-# The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google
-
 ![The Four cover](/assets/assets/images/books/the-four.jpg)
 
 **Author:** Scott Galloway  

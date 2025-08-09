@@ -4,8 +4,6 @@ title: "The Algebra of Wealth"
 permalink: /books/the-algebra-of-wealth/
 ---
 
-# The Algebra of Wealth
-
 ![The Algebra of Wealth cover](/assets/assets/images/books/the-algebra-of-wealth.jpg)
 
 **Author:** Scott Galloway  

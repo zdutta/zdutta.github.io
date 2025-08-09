@@ -4,8 +4,6 @@ title: "The Algebra of Happiness"
 permalink: /books/the-algebra-of-happiness/
 ---
 
-# The Algebra of Happiness
-
 ![The Algebra of Happiness cover](/assets/assets/images/books/the-algebra-of-happiness.jpg)
 
 **Author:** Scott Galloway  
