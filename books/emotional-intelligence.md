@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Emotional Intelligence: Why It Can Matter More Than IQ
+title: "Emotional Intelligence: Why It Can Matter More Than IQ"
 permalink: /books/emotional-intelligence/
 ---
 

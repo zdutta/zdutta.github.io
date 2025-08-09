@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Relentless: From Good to Great to Unstoppable
+title: "Relentless: From Good to Great to Unstoppable"
 author: Tim S. Grover
 date_finished: 2024-01-12
 cover: /assets/assets/images/books/relentless.jpg

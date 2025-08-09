@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Mr. Shmooze: The Art and Science of Selling Through Relationships
+title: "Mr. Shmooze: The Art and Science of Selling Through Relationships"
 author: Richard Abraham
 date_finished: 2024-01-12
 cover: /assets/assets/images/books/mr-shmooze.jpg
