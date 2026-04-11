@@ -5,59 +5,129 @@ title: Books
 
 ## 2024
 
-<img src="/assets/assets/images/books/a-gentleman-in-moscow.jpg" alt="A Gentleman in Moscow cover" style="max-width:120px; display:block; margin-bottom:0.2em;"/>
-[A Gentleman in Moscow](/books/a-gentleman-in-moscow) by Amor Towles — Jan 12, 2024
+<ul class="book-list">
 
----
+<li class="book-item">
+  <img src="/assets/assets/images/books/a-gentleman-in-moscow.jpg" alt="A Gentleman in Moscow cover" class="book-thumb">
+  <div class="book-info">
+    <a href="/books/a-gentleman-in-moscow">A Gentleman in Moscow</a> <span class="book-date">— 2024.01.12</span>
+    <p class="book-note">A beautifully written novel about Count Alexander Rostov, sentenced to house arrest in the Metropol Hotel. Over decades, he builds a life of meaning, friendship, and dignity within the hotel's walls.</p>
+  </div>
+</li>
 
-<img src="/assets/assets/images/books/the-staff-engineers-path.jpg" alt="The Staff Engineer's Path cover" style="max-width:120px; display:block; margin-bottom:0.2em;"/>
-[The Staff Engineer's Path](/books/the-staff-engineers-path) by Tanya Reilly — Jan 12, 2024
+<li class="book-item">
+  <img src="/assets/assets/images/books/the-staff-engineers-path.jpg" alt="The Staff Engineer's Path cover" class="book-thumb">
+  <div class="book-info">
+    <a href="/books/the-staff-engineers-path">The Staff Engineer's Path</a> <span class="book-date">— 2024.01.12</span>
+    <p class="book-note">A practical guide for individual contributors navigating growth and change, with actionable advice for technical leadership.</p>
+  </div>
+</li>
 
----
+<li class="book-item">
+  <img src="/assets/assets/images/books/mr-shmooze.jpg" alt="Mr. Shmooze cover" class="book-thumb">
+  <div class="book-info">
+    <a href="/books/mr-shmooze">Mr. Shmooze</a> <span class="book-date">— 2024.01.12</span>
+    <p class="book-note">A fun and insightful look at the power of relationships in sales, told through the story of the legendary Mr. Shmooze.</p>
+  </div>
+</li>
 
-<img src="/assets/assets/images/books/mr-shmooze.jpg" alt="Mr. Shmooze cover" style="max-width:120px; display:block; margin-bottom:0.2em;"/>
-[Mr. Shmooze: The Art and Science of Selling Through Relationships](/books/mr-shmooze) by Richard Abraham — Jan 12, 2024
+<li class="book-item">
+  <img src="/assets/assets/images/books/emotional-intelligence.jpg" alt="Emotional Intelligence cover" class="book-thumb">
+  <div class="book-info">
+    <a href="/books/emotional-intelligence">Emotional Intelligence</a> <span class="book-date">— 2024.01.12</span>
+    <p class="book-note">Goleman's landmark work on why emotional intelligence can matter more than IQ in life and work.</p>
+  </div>
+</li>
 
----
+<li class="book-item">
+  <img src="/assets/assets/images/books/zen-and-the-art-of-motorcycle-maintenance.jpg" alt="Zen and the Art of Motorcycle Maintenance cover" class="book-thumb">
+  <div class="book-info">
+    <a href="/books/zen-and-the-art-of-motorcycle-maintenance">Zen and the Art of Motorcycle Maintenance</a> <span class="book-date">— 2024.01.12</span>
+    <p class="book-note">A philosophical journey across America, blending a father-son road trip with deep questions about quality, meaning, and life.</p>
+  </div>
+</li>
 
-<img src="/assets/assets/images/books/emotional-intelligence.jpg" alt="Emotional Intelligence cover" style="max-width:120px; display:block; margin-bottom:0.2em;"/>
-[Emotional Intelligence: Why It Can Matter More Than IQ](/books/emotional-intelligence) by Daniel Goleman — Jan 12, 2024
+<li class="book-item">
+  <img src="/assets/assets/images/books/relentless.jpg" alt="Relentless cover" class="book-thumb">
+  <div class="book-info">
+    <a href="/books/relentless">Relentless</a> <span class="book-date">— 2024.01.12</span>
+    <p class="book-note">Grover shares the mindset and habits of elite athletes and performers, showing what it takes to be truly unstoppable.</p>
+  </div>
+</li>
 
----
+<li class="book-item">
+  <img src="/assets/assets/images/books/the-four.jpg" alt="The Four cover" class="book-thumb">
+  <div class="book-info">
+    <a href="/books/the-four">The Four</a> <span class="book-date">— 2024.01.12</span>
+    <p class="book-note">Galloway analyzes the rise and dominance of Amazon, Apple, Facebook, and Google, and what it means for business and society.</p>
+  </div>
+</li>
 
-<img src="/assets/assets/images/books/zen-and-the-art-of-motorcycle-maintenance.jpg" alt="Zen and the Art of Motorcycle Maintenance cover" style="max-width:120px; display:block; margin-bottom:0.2em;"/>
-[Zen and the Art of Motorcycle Maintenance](/books/zen-and-the-art-of-motorcycle-maintenance) by Robert M. Pirsig — Jan 12, 2024
+<li class="book-item">
+  <img src="/assets/assets/images/books/siddhartha.jpg" alt="Siddhartha cover" class="book-thumb">
+  <div class="book-info">
+    <a href="/books/siddhartha">Siddhartha</a> <span class="book-date">— 2024.01.12</span>
+    <p class="book-note">A spiritual journey of self-discovery, exploring the search for meaning and enlightenment in life.</p>
+  </div>
+</li>
 
----
+<li class="book-item">
+  <img src="/assets/assets/images/books/the-algebra-of-happiness.jpg" alt="The Algebra of Happiness cover" class="book-thumb">
+  <div class="book-info">
+    <a href="/books/the-algebra-of-happiness">The Algebra of Happiness</a> <span class="book-date">— 2024.01.12</span>
+    <p class="book-note">Galloway shares blunt, practical advice on success, love, and meaning, blending personal stories with research and humor.</p>
+  </div>
+</li>
 
-<img src="/assets/assets/images/books/relentless.jpg" alt="Relentless cover" style="max-width:120px; display:block; margin-bottom:0.2em;"/>
-[Relentless: From Good to Great to Unstoppable](/books/relentless) by Tim S. Grover — Jan 12, 2024
+<li class="book-item">
+  <img src="/assets/assets/images/books/a-tale-for-the-time-being.jpg" alt="A Tale for the Time Being cover" class="book-thumb">
+  <div class="book-info">
+    <a href="/books/a-tale-for-the-time-being">A Tale for the Time Being</a> <span class="book-date">— 2024.01.12</span>
+    <p class="book-note">A moving story weaving together the lives of a Japanese schoolgirl and a writer in Canada, exploring time, memory, and connection.</p>
+  </div>
+</li>
 
----
+<li class="book-item">
+  <img src="/assets/assets/images/books/the-algebra-of-wealth.jpg" alt="The Algebra of Wealth cover" class="book-thumb">
+  <div class="book-info">
+    <a href="/books/the-algebra-of-wealth">The Algebra of Wealth</a> <span class="book-date">— 2024.01.12</span>
+    <p class="book-note">Galloway distills the rules of financial success in today's economy, offering a practical framework for building wealth and security.</p>
+  </div>
+</li>
 
-<img src="/assets/assets/images/books/the-four.jpg" alt="The Four cover" style="max-width:120px; display:block; margin-bottom:0.2em;"/>
-[The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google](/books/the-four) by Scott Galloway — Jan 12, 2024
+</ul>
 
----
-
-<img src="/assets/assets/images/books/siddhartha.jpg" alt="Siddhartha cover" style="max-width:120px; display:block; margin-bottom:0.2em;"/>
-[Siddhartha](/books/siddhartha) by Hermann Hesse — Jan 12, 2024
-
----
-
-<img src="/assets/assets/images/books/the-algebra-of-happiness.jpg" alt="The Algebra of Happiness cover" style="max-width:120px; display:block; margin-bottom:0.2em;"/>
-[The Algebra of Happiness](/books/the-algebra-of-happiness) by Scott Galloway — Jan 12, 2024
-
----
-
-<img src="/assets/assets/images/books/a-tale-for-the-time-being.jpg" alt="A Tale for the Time Being cover" style="max-width:120px; display:block; margin-bottom:0.2em;"/>
-[A Tale for the Time Being](/books/a-tale-for-the-time-being) by Ruth Ozeki — Jan 12, 2024
-
----
-
-<img src="/assets/assets/images/books/the-algebra-of-wealth.jpg" alt="The Algebra of Wealth cover" style="max-width:120px; display:block; margin-bottom:0.2em;"/>
-[The Algebra of Wealth](/books/the-algebra-of-wealth) by Scott Galloway — Jan 12, 2024
-
----
-
-*This page is inspired by [mccurdyc.dev/books](https://www.mccurdyc.dev/books/).*
+<style>
+.book-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.book-item {
+  display: flex;
+  gap: 1.2em;
+  align-items: flex-start;
+  margin-bottom: 1.8em;
+}
+.book-thumb {
+  width: 80px;
+  min-width: 80px;
+  object-fit: cover;
+}
+.book-info {
+  display: flex;
+  flex-direction: column;
+}
+.book-info a {
+  font-weight: 500;
+}
+.book-date {
+  color: #888;
+  font-size: 0.9em;
+}
+.book-note {
+  margin: 0.3em 0 0 0;
+  font-size: 0.9em;
+  color: #555;
+}
+</style>
