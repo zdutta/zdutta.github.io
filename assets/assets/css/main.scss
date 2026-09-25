@@ -38,3 +38,63 @@ nav a, button, input, select, textarea { font-family: $sans; }
 
 // code stays monospace, which is the whole point of code
 code, pre, kbd, samp { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+
+// ---------------------------------------------------------------------------
+// Site header.
+//
+// The header used to be a full-bleed flex row with `padding: 20px 0`, i.e. no
+// horizontal padding and no width limit, while the content sits in a centred
+// 640px column. That pushed the nav hard against the right edge of the
+// viewport and clipped the last item. The rule stays full-bleed; only the row
+// inside it is constrained, so it lines up with the text column.
+// ---------------------------------------------------------------------------
+
+.site-head {
+  border-bottom: 1px solid #333;
+  margin-bottom: 30px;
+}
+
+.site-head-inner {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 20px 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.site-logo {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  flex: none;
+
+  img { height: 1.6em; display: block; }
+}
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px 22px;
+
+  a, span {
+    text-decoration: none;
+    color: inherit;
+    font-size: 0.82em;
+    font-weight: 400;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+    transition: opacity 0.2s ease;
+  }
+
+  a { opacity: 0.78; }
+  a:hover { opacity: 1; }
+}
+
+@media (max-width: 560px) {
+  .site-head-inner { padding: 16px 1.25rem; gap: 1rem; }
+  .site-nav { gap: 6px 14px; a, span { font-size: 0.76em; } }
+}
