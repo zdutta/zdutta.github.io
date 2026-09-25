@@ -10,7 +10,7 @@
       <nav style="display: flex; gap: 30px; align-items: center;">
         {%-for item in site.data.menu.entries-%}
           {%- if item.url -%}
-            <a href="{{ item.url }}" style="text-decoration: none; color: inherit; font-size: 0.9em; font-weight: 300; letter-spacing: 1px; transition: color 0.2s ease;">{{ item.title | upcase }}</a>
+            <a href="{{ item.url | relative_url }}" style="text-decoration: none; color: inherit; font-size: 0.9em; font-weight: 300; letter-spacing: 1px; transition: color 0.2s ease;">{{ item.title | upcase }}</a>
           {%- else -%}
             <span style="font-size: 0.9em; font-weight: 300; letter-spacing: 1px;">{{ item.title | upcase }}</span>
           {%- endif -%}
