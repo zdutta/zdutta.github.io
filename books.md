@@ -3,6 +3,20 @@ layout: page
 title: Books
 ---
 
+## 2026
+
+<ul class="book-list">
+
+<li class="book-item">
+  <div class="book-header">
+    <a href="/books/alchemy">Alchemy</a>
+  </div>
+  <img src="/assets/assets/images/books/alchemy.jpg" alt="Alchemy cover" class="book-thumb">
+  <p class="book-note">Sutherland on why logic gets over-trusted because it is easy to defend, and psychology gets under-used because it is not. Perceived value is real value, and optimizing only the measurable parts leaves most of the opportunity untouched.</p>
+</li>
+
+</ul>
+
 ## 2025
 
 <ul class="book-list">
