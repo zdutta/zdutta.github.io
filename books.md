@@ -3,6 +3,30 @@ layout: page
 title: Books
 ---
 
+## 2025
+
+<ul class="book-list">
+
+<li class="book-item">
+  <div class="book-header">
+    <a href="/books/turn-the-ship-around">Turn the Ship Around!</a>
+    <span class="book-date">2025.11.15</span>
+  </div>
+  <img src="/assets/assets/images/books/turn-the-ship-around.jpg" alt="Turn the Ship Around! cover" class="book-thumb">
+  <p class="book-note">Marquet takes command of the worst-performing submarine in the fleet and stops giving orders, moving authority to where the information already is. The "I intend to..." mechanism turns followers into decision makers.</p>
+</li>
+
+<li class="book-item">
+  <div class="book-header">
+    <a href="/books/no-rules-rules">No Rules Rules</a>
+    <span class="book-date">2025.03.15</span>
+  </div>
+  <img src="/assets/assets/images/books/no-rules-rules.jpg" alt="No Rules Rules cover" class="book-thumb">
+  <p class="book-note">Hastings and Meyer on the Netflix culture: build talent density, make candour normal, and only then remove the controls. The sequencing matters more than the headline policies.</p>
+</li>
+
+</ul>
+
 ## 2024
 
 <ul class="book-list">
