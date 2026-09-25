@@ -2,3 +2,39 @@
 ---
 
 @import "no-style-please";
+
+// ---------------------------------------------------------------------------
+// Typography override.
+//
+// The theme ships font-family: monospace. Inter is a neo-grotesque and the
+// closest freely licensable match to the reference. Loaded in _includes/head.html.
+// To revert the site to the theme default, delete this block.
+// ---------------------------------------------------------------------------
+
+$sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+       Helvetica, Arial, sans-serif;
+
+body {
+  font-family: $sans;
+  font-size: 17px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "cv05" 1, "cv11" 1; // single-storey l, open g
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $sans;
+  font-weight: 700;
+  letter-spacing: -0.022em;
+  line-height: 1.12;
+}
+
+h1 { font-size: 2.35rem; letter-spacing: -0.032em; }
+h2 { font-size: 1.5rem; }
+
+// nav, buttons and form controls inherit rather than falling back to the UA font
+nav a, button, input, select, textarea { font-family: $sans; }
+
+// code stays monospace, which is the whole point of code
+code, pre, kbd, samp { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
