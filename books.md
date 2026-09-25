@@ -22,7 +22,7 @@ title: Books
     <span class="book-date">2025.03.15</span>
   </div>
   <img src="/assets/assets/images/books/no-rules-rules.jpg" alt="No Rules Rules cover" class="book-thumb">
-  <p class="book-note">Hastings and Meyer on the Netflix culture: build talent density, make candour normal, and only then remove the controls. The sequencing matters more than the headline policies.</p>
+  <p class="book-note">Hastings and Meyer on the Netflix culture: build talent density, make candor normal, and only then remove the controls. The sequencing matters more than the headline policies.</p>
 </li>
 
 </ul>
