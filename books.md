@@ -45,13 +45,10 @@ title: Books
 
 <style>
 /* ---------- coverflow ---------- */
-.cf{
-  --cf-fg:#e8eef7; --cf-dim:#93a4bd; --cf-line:#2a3446; --cf-accent:#7dd3fc;
-  margin:0 0 3em; user-select:none;
-}
-@media (prefers-color-scheme: light){
-  .cf{ --cf-fg:#16202e; --cf-dim:#5b6b80; --cf-line:#d7dee8; --cf-accent:#0369a1; }
-}
+/* Colours inherit from the theme rather than keying off the OS preference:
+   the site renders dark whatever prefers-color-scheme says, so a light-mode
+   branch here put dark text on a dark page. */
+.cf{ margin:0 0 3em; user-select:none; color:inherit; }
 .cf[hidden]{display:none}
 
 .cf-viewport{
@@ -59,7 +56,7 @@ title: Books
   overflow:hidden; outline:none; cursor:grab; touch-action:pan-y;
 }
 .cf-viewport:active{cursor:grabbing}
-.cf-viewport:focus-visible{outline:2px solid var(--cf-accent); outline-offset:3px; border-radius:8px}
+.cf-viewport:focus-visible{outline:2px solid currentColor; outline-offset:3px; border-radius:8px}
 
 .cf-stage{position:absolute; inset:0; transform-style:preserve-3d}
 
@@ -92,33 +89,33 @@ title: Books
 /* ---------- caption ---------- */
 .cf-meta{text-align:center; margin-top:.4em; min-height:6.2em}
 .cf-year{
-  font-size:.72em; letter-spacing:.18em; color:var(--cf-dim); margin-bottom:.35em;
+  font-size:.72em; letter-spacing:.18em; opacity:.55; margin-bottom:.35em;
 }
 .cf-title{
-  display:inline-block; font-size:1.35em; font-weight:700; color:var(--cf-fg);
+  display:inline-block; font-size:1.35em; font-weight:700; color:inherit;
   text-decoration:none; line-height:1.2;
 }
 .cf-title:hover{text-decoration:underline}
-.cf-author{color:var(--cf-dim); font-size:.9em; margin-top:.15em}
+.cf-author{opacity:.68; font-size:.9em; margin-top:.15em}
 .cf-note{
-  color:var(--cf-dim); font-size:.86em; max-width:56ch; margin:.7em auto 0; line-height:1.5;
+  opacity:.6; font-size:.86em; max-width:56ch; margin:.7em auto 0; line-height:1.5;
 }
 
 /* ---------- controls ---------- */
 .cf-controls{display:flex; align-items:center; justify-content:center; gap:14px; margin-top:1em; flex-wrap:wrap}
 .cf-arrow{
-  font:inherit; font-size:1.5em; line-height:1; color:var(--cf-dim); background:transparent;
-  border:1px solid var(--cf-line); border-radius:50%; width:40px; height:40px; cursor:pointer;
-  display:flex; align-items:center; justify-content:center; padding:0 0 3px;
+  font:inherit; font-size:1.5em; line-height:1; color:inherit; background:transparent;
+  border:1px solid currentColor; border-radius:50%; width:40px; height:40px; cursor:pointer;
+  display:flex; align-items:center; justify-content:center; padding:0 0 3px; opacity:.45;
 }
-.cf-arrow:hover{color:var(--cf-fg); border-color:var(--cf-accent)}
+.cf-arrow:hover{opacity:1}
 .cf-years{display:flex; gap:7px}
 .cf-years button{
-  font:inherit; font-size:.8em; letter-spacing:.06em; color:var(--cf-dim); background:transparent;
-  border:1px solid var(--cf-line); border-radius:999px; padding:6px 13px; cursor:pointer;
+  font:inherit; font-size:.8em; letter-spacing:.06em; color:inherit; background:transparent;
+  border:1px solid currentColor; border-radius:999px; padding:6px 13px; cursor:pointer; opacity:.45;
 }
-.cf-years button:hover{color:var(--cf-fg)}
-.cf-years button[aria-current="true"]{color:var(--cf-fg); border-color:var(--cf-accent)}
+.cf-years button:hover{opacity:.8}
+.cf-years button[aria-current="true"]{opacity:1}
 
 @media (max-width:640px){
   .cf-viewport{height:370px; perspective:900px}
