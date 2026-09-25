@@ -1,0 +1,89 @@
+# Books, newest first. Adding a book:
+#   1. drop a cover at assets/assets/images/books/<slug>.jpg
+#   2. create books/<slug>.md with the reflection
+#   3. add an entry here
+# The books page (carousel + list) is generated from this file.
+
+- slug:   alchemy
+  title:  "Alchemy"
+  author: "Rory Sutherland"
+  year:   2026
+  note:   "Sutherland on why logic gets over-trusted because it is easy to defend, and psychology gets under-used because it is not. Perceived value is real value, and optimizing only the measurable parts leaves most of the opportunity untouched."
+
+- slug:   turn-the-ship-around
+  title:  "Turn the Ship Around!"
+  author: "L. David Marquet"
+  year:   2025
+  note:   "Marquet takes command of the worst-performing submarine in the fleet and stops giving orders, moving authority to where the information already is. The \"I intend to...\" mechanism turns followers into decision makers."
+
+- slug:   no-rules-rules
+  title:  "No Rules Rules"
+  author: "Reed Hastings and Erin Meyer"
+  year:   2025
+  note:   "Hastings and Meyer on the Netflix culture: build talent density, make candor normal, and only then remove the controls. The sequencing matters more than the headline policies."
+
+- slug:   a-gentleman-in-moscow
+  title:  "A Gentleman in Moscow"
+  author: "Amor Towles"
+  year:   2024
+  note:   "A beautifully written novel about Count Alexander Rostov, sentenced to house arrest in the Metropol Hotel. Over decades, he builds a life of meaning, friendship, and dignity within the hotel's walls."
+
+- slug:   the-staff-engineers-path
+  title:  "The Staff Engineer's Path"
+  author: "Tanya Reilly"
+  year:   2024
+  note:   "A practical guide for individual contributors navigating growth and change, with actionable advice for technical leadership."
+
+- slug:   mr-shmooze
+  title:  "Mr. Shmooze"
+  author: "Richard Abraham"
+  year:   2024
+  note:   "A fun and insightful look at the power of relationships in sales, told through the story of the legendary Mr. Shmooze."
+
+- slug:   emotional-intelligence
+  title:  "Emotional Intelligence"
+  author: "Daniel Goleman"
+  year:   2024
+  note:   "Goleman's landmark work on why emotional intelligence can matter more than IQ in life and work."
+
+- slug:   zen-and-the-art-of-motorcycle-maintenance
+  title:  "Zen and the Art of Motorcycle Maintenance"
+  author: "Robert M. Pirsig"
+  year:   2024
+  note:   "A philosophical journey across America, blending a father-son road trip with deep questions about quality, meaning, and life."
+
+- slug:   relentless
+  title:  "Relentless"
+  author: "Tim S. Grover"
+  year:   2024
+  note:   "Grover shares the mindset and habits of elite athletes and performers, showing what it takes to be truly unstoppable."
+
+- slug:   the-four
+  title:  "The Four"
+  author: "Scott Galloway"
+  year:   2024
+  note:   "Galloway analyzes the rise and dominance of Amazon, Apple, Facebook, and Google, and what it means for business and society."
+
+- slug:   siddhartha
+  title:  "Siddhartha"
+  author: "Hermann Hesse"
+  year:   2024
+  note:   "A spiritual journey of self-discovery, exploring the search for meaning and enlightenment in life."
+
+- slug:   the-algebra-of-happiness
+  title:  "The Algebra of Happiness"
+  author: "Scott Galloway"
+  year:   2024
+  note:   "Galloway shares blunt, practical advice on success, love, and meaning, blending personal stories with research and humor."
+
+- slug:   a-tale-for-the-time-being
+  title:  "A Tale for the Time Being"
+  author: "Ruth Ozeki"
+  year:   2024
+  note:   "A moving story weaving together the lives of a Japanese schoolgirl and a writer in Canada, exploring time, memory, and connection."
+
+- slug:   the-algebra-of-wealth
+  title:  "The Algebra of Wealth"
+  author: "Scott Galloway"
+  year:   2024
+  note:   "Galloway distills the rules of financial success in today's economy, offering a practical framework for building wealth and security."
