@@ -6,8 +6,7 @@ permalink: /books/foo/
 
 # Foo
 
-**Author:** Author Name  
-**Date Finished:** 2025-05-03
+**Author:** Author Name
 
 ## Reflection
 

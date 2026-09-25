@@ -6,8 +6,7 @@ permalink: /books/siddhartha/
 
 ![Siddhartha cover](/assets/assets/images/books/siddhartha.jpg)
 
-**Author:** Hermann Hesse  
-**Date Finished:** Jan 12, 2024
+**Author:** Hermann Hesse
 
 ## Reflection
 

@@ -6,8 +6,7 @@ permalink: /books/relentless/
 
 ![Relentless cover](/assets/assets/images/books/relentless.jpg)
 
-**Author:** Tim S. Grover  
-**Date Finished:** Jan 12, 2024
+**Author:** Tim S. Grover
 
 ## Reflection
 

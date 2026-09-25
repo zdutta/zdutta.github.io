@@ -6,8 +6,7 @@ permalink: /books/a-tale-for-the-time-being/
 
 ![A Tale for the Time Being cover](/assets/assets/images/books/a-tale-for-the-time-being.jpg)
 
-**Author:** Ruth Ozeki  
-**Date Finished:** Jan 12, 2024
+**Author:** Ruth Ozeki
 
 ## Reflection
 

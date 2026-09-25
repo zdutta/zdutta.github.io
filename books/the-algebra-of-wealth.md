@@ -6,8 +6,7 @@ permalink: /books/the-algebra-of-wealth/
 
 ![The Algebra of Wealth cover](/assets/assets/images/books/the-algebra-of-wealth.jpg)
 
-**Author:** Scott Galloway  
-**Date Finished:** Jan 12, 2024
+**Author:** Scott Galloway
 
 ## Reflection
 

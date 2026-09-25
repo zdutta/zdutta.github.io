@@ -6,8 +6,7 @@ permalink: /books/the-four/
 
 ![The Four cover](/assets/assets/images/books/the-four.jpg)
 
-**Author:** Scott Galloway  
-**Date Finished:** Jan 12, 2024
+**Author:** Scott Galloway
 
 ## Reflection
 

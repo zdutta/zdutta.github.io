@@ -6,8 +6,7 @@ permalink: /books/turn-the-ship-around/
 
 ![Turn the Ship Around! cover](/assets/assets/images/books/turn-the-ship-around.jpg)
 
-**Author:** L. David Marquet  
-**Date Finished:** Nov 15, 2025
+**Author:** L. David Marquet
 
 ## Reflection
 

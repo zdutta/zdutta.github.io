@@ -6,8 +6,7 @@ permalink: /books/the-staff-engineers-path/
 
 ![The Staff Engineer's Path cover](/assets/assets/images/books/the-staff-engineers-path.jpg)
 
-**Author:** Tanya Reilly  
-**Date Finished:** Jan 12, 2024
+**Author:** Tanya Reilly
 
 ## Reflection
 

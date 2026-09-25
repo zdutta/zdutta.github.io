@@ -6,8 +6,7 @@ permalink: /books/mr-shmooze/
 
 ![Mr. Shmooze cover](/assets/assets/images/books/mr-shmooze.jpg)
 
-**Author:** Richard Abraham  
-**Date Finished:** Jan 12, 2024
+**Author:** Richard Abraham
 
 ## Reflection
 

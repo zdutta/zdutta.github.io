@@ -6,8 +6,7 @@ permalink: /books/the-algebra-of-happiness/
 
 ![The Algebra of Happiness cover](/assets/assets/images/books/the-algebra-of-happiness.jpg)
 
-**Author:** Scott Galloway  
-**Date Finished:** Jan 12, 2024
+**Author:** Scott Galloway
 
 ## Reflection
 

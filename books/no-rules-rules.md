@@ -6,8 +6,7 @@ permalink: /books/no-rules-rules/
 
 ![No Rules Rules cover](/assets/assets/images/books/no-rules-rules.jpg)
 
-**Author:** Reed Hastings and Erin Meyer  
-**Date Finished:** Mar 15, 2025
+**Author:** Reed Hastings and Erin Meyer
 
 ## Reflection
 

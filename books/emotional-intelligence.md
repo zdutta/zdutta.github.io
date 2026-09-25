@@ -6,8 +6,7 @@ permalink: /books/emotional-intelligence/
 
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347518221l/26329._SX318_.jpg)
 
-**Author:** Daniel Goleman  
-**Date Finished:** 2025-01-12
+**Author:** Daniel Goleman
 
 ## Reflection
 
